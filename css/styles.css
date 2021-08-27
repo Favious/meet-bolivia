@@ -1,0 +1,105 @@
+.row-header {
+  margin: 0px auto;
+  padding: 0px 0px;
+}
+.row-content {
+  margin: 0px auto;
+  padding: 50px 0px;
+  border-bottom: 1px ridge;
+  min-height: 400px;
+}
+.footer {
+  background-color: #d1c4e9;
+  margin: 0px auto;
+  padding: 20px 0px;
+}
+.jumbotron {
+  margin: 0px auto;
+  padding: 70px 30px;
+  color: white;
+}
+.la-paz {
+  background: url("http://2.bp.blogspot.com/-b_bp_dspdfY/TcRNUzAIzpI/AAAAAAAADc0/aGKy3AtWuGo/s1600/la_paz_bolivia.jpg");
+  background-size: cover;
+}
+.oruro {
+  background: url("https://vea.global/wp-content/uploads/2020/07/Carnaval-de-Oruro.jpg");
+  background-size: cover;
+}
+.potosi {
+  background: url("http://www.diputados.bo/sites/default/files/POTOSI1_1.jpg");
+  background-size: cover;
+}
+.cochabamba {
+  background: url("http://3.bp.blogspot.com/-KiBDr8UizVo/VquxuctEGgI/AAAAAAAAAFU/a-HhaeyCKIQ/s1600/CRISTO%2BDE%2BLA%2BCONCORDIA%2B03%2B%25281%2529.jpg");
+  background-size: cover;
+}
+.chuquisaca {
+  background: url("https://a.travel-assets.com/findyours-php/viewfinder/images/res40/115000/115728-Universidad-De-San-Francisco-Xavier-De-Chuquisaca.jpg");
+  background-size: cover;
+}
+.tarija {
+  background: url("https://infusedexposures.files.wordpress.com/2014/03/img0767.jpg");
+  background-size: cover;
+}
+.pando {
+  background: url("https://i.pinimg.com/736x/c9/2d/88/c92d88978195bc82d2e7a3a7fdfa501f.jpg");
+  background-size: cover;
+}
+.beni {
+  background: url("https://media-cdn.tripadvisor.com/media/photo-c/2560x500/11/4d/03/6a/uitzicht-op-de-rio-quiquibey.jpg");
+  background-size: cover;
+}
+.santa-cruz {
+  background: url("https://a.travel-assets.com/findyours-php/viewfinder/images/res70/115000/115563-Santa-Cruz.jpg");
+  background-size: cover;
+}
+address {
+  font-size: 80%;
+  margin: 0px;
+  color: #0f0f0f;
+}
+body {
+  padding: 50px 0px 0px 0px;
+  z-index: 0;
+}
+.my-toggler {
+  background-color: #f93154;
+  color: #222222;
+}
+.navbar-dark {
+  background-color: #222222;
+}
+.navbar-brand {
+  font-family: "Pacifico", cursive;
+  color: #f93154 !important;
+}
+.navbar-brand .yellow {
+  color: #e7e56d !important;
+}
+.navbar-brand .green {
+  color: #69d669 !important;
+}
+.tab-content {
+  border-left: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  padding: 10px;
+}
+.carousel {
+  background: #3d1e23;
+}
+.carousel .carousel-item {
+  height: 300px;
+}
+.carousel .carousel-item img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-height: 300px;
+}
+#carouselButton {
+  right: 0px;
+  position: absolute;
+  bottom: 0px;
+}
