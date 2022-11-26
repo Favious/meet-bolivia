@@ -9,11 +9,14 @@
   "devDependencies": {
     "jquery": "^3.6.0",
     "lite-server": "^2.6.1",
-    "popper.js": "^1.16.1"
+    "popper.js": "^1.16.1",
+    "webpack": "",
+    "webpack-cli": ""
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "lite-server"
+    "dev": "lite-server",
+    "build": "webpack"
   },
   "author": "",
   "license": "ISC"
